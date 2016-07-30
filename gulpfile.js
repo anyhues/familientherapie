@@ -21,7 +21,7 @@ gulp.task('run', sequence(['watch', 'server']))
 gulp.task('deploy', ['dist'], () => {
   gulp.src([config.get('distGlob'), 'CNAME'])
   .pipe(ghPages({
-    remoteUrl: 'git@github.com:anyhues-couples/anyhues-family.github.io.git',
+    remoteUrl: 'git@github.com:anyhues-family/anyhues-family.github.io.git',
     branch: 'master'
   }).on('error', gutil.log))
   .pipe(print())
