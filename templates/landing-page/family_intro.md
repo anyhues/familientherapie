@@ -1,7 +1,29 @@
-## Familie ....
+## Papa – Mama – Kind...?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Papa-Mama-Kind. Die klassische  Familienidylle spukt in den meisten Köpfen von uns noch immer herum. Das moderne Familienleben jedoch sieht mittlerweile häufig ganz anders aus und entspricht manches Mal nicht unseren Vorstellungen, wie wir es uns eigentlich wünschen.
 
-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Aufgrund der veränderten Lebensweise steht heutzutage häufig die Organisation des Alltags der Familie sehr im Vordergrund und oft haben alle Beteiligten das Gefühl die zwischenmenschlichen Beziehungen kommen zu kurz.  Das Familienleben wird als anstrengend und belastend empfunden.
 
-Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.
+Ich möchte Eltern dazu einladen, das erlernte Familienbild zu hinterfragen um ein neues, für die eigene Familie stimmiges, zu entwickeln.
+
+Eine Familie entwickelt sich permanent weiter. Kinder werden älter und stellen andere Anforderungen, aber auch die Bedürfnisse der Elternteile verändern sich.  Veränderungen verlaufen nicht immer reibungslos, sondern können für Irritationen und Ängste oder Widerstand bei den anderen Familienmitgliedern sorgen.
+
+Ich lade daher auch dazu ein, diese Veränderungen als Chance zu sehen und Hürden, die sich einer Veränderung in den Weg stellen, zu überwinden.
+
+Mehr zu meiner [Arbeitsweise](http://www.praxis-niehues.de/#methods).
+
+Mögliche Themen:
+
+* Familienorganisation
+* Umgang mit chronischer Krankheit
+* Mutterrolle und Vaterrolle
+* Belastende Familiensituationen
+* Trennung / Scheidung
+* Leben in Patchworkfamilien
+* Regenbogenfamilien
+* Nicht zielführende Kommunikation
+* Konfliktreiche Alltagsbewältigung
+* Verhaltensauffälligkeiten der Kinder
+* Pubertät und Auszug der Kinder
+
+...
