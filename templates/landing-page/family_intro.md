@@ -25,5 +25,4 @@ Mögliche Themen:
 * Konfliktreiche Alltagsbewältigung
 * Verhaltensauffälligkeiten der Kinder
 * Pubertät und Auszug der Kinder
-
-...
+* u.v.m.
