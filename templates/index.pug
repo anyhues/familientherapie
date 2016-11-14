@@ -1,6 +1,11 @@
 extends /family_layout
 include /helper
 
+block title
+  title Familientherapie - Andreas Niehues
+  if (config.get('canonical'))
+    link(rel="canonical" href=FAMILY_HOST)
+
 block content
   .area
     include:markdown-it landing-page/family_intro.md
@@ -23,3 +28,4 @@ block scripts
 
 block seo
   +meta_keywords('Familientherapie', 'Familientherapeut', 'Familienberatung', 'Familienberater', 'Andreas', 'Andrea', 'Andre', 'Niehues', 'Niehus', 'Niehuis', 'Niehaus', 'Essen', 'Ruhrgebiet', 'Mülheim', 'Oberhausen', 'Duisburg', 'Gladbeck', 'Bocholt', 'Familienaufstellungen', 'Familienaufstellung', 'Hellinger', 'Aufstellung ', 'Aufstellungen', 'Systemisch', 'Systemisch-integrativ', 'Systemische', 'Familie', 'Familien', 'Trennung', 'Scheidung', 'Patchworkfamilie', 'Kind', 'Kinder', 'Regenbogenfamilie', 'Pubertät', 'Magersucht', 'Anorexie', 'Ritzen', 'Selbst verletzen', 'Alkohol', 'Drogen', 'Steit', 'Streitigkeiten', 'Geschwister', 'Geschwisterrivalität', 'Eltern', 'Bruder', 'Schwester', 'Vater', 'Mutter', 'Eifersucht', 'Eifersüchtig', 'Chronisch Krank', 'Krebs', 'HIV', 'Aids', 'Schwul', 'Lesbisch', 'Lesbe', 'Homosexuell', 'Coming-out', 'Schulprobleme')
+  +meta_description('Belastendes Familienleben? Wege aus dem Alltagsstress zu mehr Familienidylle. Beziehungen in der Familie neu gestalten.')
